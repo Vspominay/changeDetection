@@ -23,6 +23,7 @@
 - [x] **[DetectChanges](https://indepth.dev/posts/1053/everything-you-need-to-know-about-change-detection-in-angular#detectchanges)**
 >There is a way to ```run change detection once``` for the current component and all its children.
 
+## [Change detection and component trees](https://indepth.dev/posts/1512/change-detection-and-component-trees-in-angular-applications)
 
 <h2 align="left">Binding and view</h2>
 
